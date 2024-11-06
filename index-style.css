@@ -4,6 +4,16 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.list {
+.heading {
+    text-align: center;
+    display: block;
+    margin: 18px auto;
+    font-size: 50px;
+}
+
+ul li a{ 
     color: white;
+    display: block;
+    margin: 10px;
+    font-size: 20px;
 }
